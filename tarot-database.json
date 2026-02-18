@@ -1,7 +1,7 @@
 {
   "Major": [
     {
-      "name": "The Fool",
+      "name": "Le Fou",
       "image": "https://i.ibb.co/8nWXJgWP/The-Fool.png",
       "represents": {
         "planet": "Uranus",
@@ -9,14 +9,14 @@
         "element": "Air"
       },
       "upright": {
-        "yesno": "Yes",
-        "tags": "New beginnings, spontaneity, freedom, optimism, adventure, innocence, risk, curiosity",
-        "description": "The Fool signifies the start of a journey with an open heart and a free spirit. It encourages you to embrace new opportunities and adventures."
+        "yesno": "Oui",
+        "tags": "Nouveaux départs, spontanéité, liberté, optimisme, aventure, innocence, rique, curiositée",
+        "description": "Le Fou symbolise le début d’un voyage avec un cœur ouvert et un esprit libre. Il t’encourage à saisir de nouvelles opportunités et à te lancer dans l’aventure."
       },
       "reversed": {
-        "yesno": "No",
-        "tags": "Foolishness, recklessness, naivety, misjudgment, impulsiveness, imprudence, irresponsibility, confusion",
-        "description": "The Fool warns against impulsive actions and a lack of direction, suggesting the need for caution and thoughtful planning."
+        "yesno": "Non",
+        "tags": "Folie, imprudence, naiveté, préjugé, impulsivité, imprudence, irresponsabilité, confusion",
+        "description": "Le Fou met en garde contre les actions impulsives et le manque de direction, et suggère la nécessité de faire preuve de prudence et de planification réfléchie."
       }
     },
     {
@@ -1485,5 +1485,294 @@
       }
     }
   ],
-  "Oracle": []
-}
+  "Oracle": [
+    {
+      "nom": "Androgyne",
+      "autre_titre": "Amour",
+      "image": "",
+      "zodiac": "Gémeaux",
+      "endroit": "Équilibre des polarités, union du féminin et du masculin, complétude intérieure, harmonie, amour sincère, rencontre, relation qui dure.",
+      "envers": "Équilibre des polarités, union du féminin et du masculin, complétude intérieure, harmonie, amour sincère, rencontre, relation qui dure."
+    },
+    {
+      "nom": "Banshee",
+      "autre_titre": "Mort",
+      "image": "",
+      "zodiac": "Poissons",
+      "endroit": "Mort, fin d'un projet, fin d'une relation, fin.",
+      "envers": "Connecte toi au monde intangible, on veut communiquer avec toi."
+    },
+    {
+      "nom": "Baphomet",
+      "autre_titre": "Autorité",
+      "image": "",
+      "zodiac": "Lion",
+      "endroit": "Impose tes idées et tes projets, exprime toi avec assurance, tu es dans le juste.",
+      "envers": "Manque de tolérance, d'ouverture d'esprit, de respect, ne soi pas fermer aux idées des autres."
+    },
+    {
+      "nom": "Callisto",
+      "autre_titre": "La guide",
+      "image": "",
+      "zodiac": "Vierge",
+      "endroit": "Une femme te guide, elle aura un rôle important, c'est une personne vivante ou décédée.",
+      "envers": "Une femme te guide, elle aura un rôle important, c'est une personne vivante ou décédée."
+    },
+    {
+      "nom": "Capricorne",
+      "autre_titre": "Abondance",
+      "image": "",
+      "zodiac": "Capricorne",
+      "endroit": "Abondance dans le domaine souhaité, concrétisation de projets, plénitude durable, sécurité.",
+      "envers": "Abondance dans le domaine souhaité, concrétisation de projets, plénitude durable, sécurité."
+    },
+    {
+      "nom": "Cerbère",
+      "autre_titre": "Pluralité",
+      "image": "",
+      "zodiac": "Gémeaux",
+      "endroit": "Ne te perds pas, reste centré, crise identitaire, écoute ta voix intérieur.",
+      "envers": "Ne te perds pas, reste centré, crise identitaire, écoute ta voix intérieur."
+    },
+    {
+      "nom": "Cavalier sans tête",
+      "autre_titre": "Loyauté",
+      "image": "",
+      "zodiac": "Taureau",
+      "endroit": "Loyauté dans une relation, confiance, fidélité.",
+      "envers": "Infidélité, tromperie."
+    },
+    {
+      "nom": "Dahu",
+      "autre_titre": "Stabilité",
+      "image": "",
+      "zodiac": "Vierge",
+      "endroit": "Consolide ton équilibre, pas de projets risqués, choisis la sécurité.",
+      "envers": "Evenement imprévu destabilisant, ne perds pas espoir."
+    },
+    {
+      "nom": "Dragon",
+      "autre_titre": "Protection",
+      "image": "",
+      "zodiac": "Cancer",
+      "endroit": "Tu es entre de bonnes mains et protégé, n'hésites plus, fonce.",
+      "envers": "Tu es entre de bonnes mains et protégé, n'hésites plus, fonce."
+    },
+    {
+      "nom": "Dryade",
+      "autre_titre": "Nature",
+      "image": "",
+      "zodiac": "Verseau",
+      "endroit": "Passe du temps dans la nature, ne surconsomme pas, alimentation plus naturelle.",
+      "envers": "Passe du temps dans la nature, ne surconsomme pas, alimentation plus naturelle."
+    },
+    {
+      "nom": "Fée",
+      "autre_titre": "Joie et festivité",
+      "image": "",
+      "zodiac": "Sagittaire",
+      "endroit": "Trop de focus sur le négatif, occupe toi de toi, il est temps de t'épanouir et de t'entourer des gens qui comptent vraiment pour toi.",
+      "envers": "Trop de focus sur le négatif, occupe toi de toi, il est temps de t'épanouir et de t'entourer des gens qui comptent vraiment pour toi."
+    },
+    {
+      "nom": "Femme-araignée",
+      "autre_titre": "Liaisons",
+      "image": "",
+      "zodiac": "Balance",
+      "endroit": "Reconnection avec tes racines, inspection du passé, de la famille.",
+      "envers": "Epanouissement, équilibre vie pro, sentimentale et perso, connexion possitive."
+    },
+    {
+      "nom": "Fenrir",
+      "autre_titre": "Isolement",
+      "image": "",
+      "zodiac": "Capricorne",
+      "endroit": "Période d'isolement, sentiment de solitude, essaye de d'entourer ou travaille sur ta solitude.",
+      "envers": "Période d'isolement, sentiment de solitude, essaye de d'entourer ou travaille sur ta solitude."
+    },
+    {
+      "nom": "Harpie",
+      "autre_titre": "Influence",
+      "image": "",
+      "zodiac": "Lion",
+      "endroit": "Entourage toxique, influence néfaste, tu ne peux changer personne, il est temps de quitter ces personnes.",
+      "envers": "Entourage toxique, influence néfaste, tu ne peux changer personne, il est temps de quitter ces personnes."
+    },
+    {
+      "nom": "Huginn et Munin",
+      "autre_titre": "Messagers",
+      "image": "",
+      "zodiac": "Verseau",
+      "endroit": "Ecoute les messages transmis autour de toi, les signes inhabituels et insistant, ils t'aident à avancer sainement.",
+      "envers": "Ecoute les messages transmis autour de toi, les signes inhabituels et insistant, ils t'aident à avancer sainement."
+    },
+    {
+      "nom": "Jackalope",
+      "autre_titre": "Chance",
+      "image": "",
+      "zodiac": "Sagittaire",
+      "endroit": "Atténue le négatif des cartes qui l'entourent, signe de chance.",
+      "envers": "Atténue le négatif des cartes qui l'entourent, signe de chance."
+    },
+    {
+      "nom": "Leprechaun",
+      "autre_titre": "Finances",
+      "image": "",
+      "zodiac": "Capricorne",
+      "endroit": "Bonne économie, rentrée d'argent.",
+      "envers": "Difficultées financières, problèmes financiers soudain, soit prudent."
+    },
+    {
+      "nom": "Léviathan",
+      "autre_titre": "Justice",
+      "image": "",
+      "zodiac": "Balance",
+      "endroit": "Confrontation à la justice, littérale ou moral, réglement de différent pro, perso, justice va etre rendu.",
+      "envers": "Tu vas payer le prix de tes erreurs, retour de baton, avertissement."
+    },
+    {
+      "nom": "Licorne",
+      "autre_titre": "Rêves",
+      "image": "",
+      "zodiac": "Cancer",
+      "endroit": "Prête attention à tes rêves, la réponse se trouve dedans.",
+      "envers": "Prête attention à tes rêves, la réponse se trouve dedans."
+    },
+    {
+      "nom": "Lycanthrope",
+      "autre_titre": "Introspection",
+      "image": "",
+      "zodiac": "Poissons",
+      "endroit": "Travailles sur ta part d'ombre, refoulement, il faut travailler sur soi.",
+      "envers": "Travailles sur ta part d'ombre, refoulement, il faut travailler sur soi."
+    },
+    {
+      "nom": "Méduse",
+      "autre_titre": "Trahison",
+      "image": "",
+      "zodiac": "Taureau",
+      "endroit": "Trahison, personnes envieuses, jalousie, évite de te confier.",
+      "envers": "Trahison, personnes envieuses, jalousie, évite de te confier."
+    },
+    {
+      "nom": "Mélusine",
+      "autre_titre": "Fécondité",
+      "image": "",
+      "zodiac": "Vierge",
+      "endroit": "Grossesse, nouveau projets, nouveauté.",
+      "envers": "Ralentissement des projets, sois patiente."
+    },
+    {
+      "nom": "Minotaure",
+      "autre_titre": "Impulsivité",
+      "image": "",
+      "zodiac": "Scorpion",
+      "endroit": "Ne cède pas à tes pulsions, réfléchis avant d'agir, besoin de patience, changement d'humeur, période intense.",
+      "envers": "Ne cède pas à tes pulsions, réfléchis avant d'agir, besoin de patience, changement d'humeur, période intense."
+    },
+    {
+      "nom": "Moires",
+      "autre_titre": "Fatalité",
+      "image": "",
+      "zodiac": "Cancer",
+      "endroit": "Evenement brutal mais nécéssaire.",
+      "envers": "Faculté de médium, voyance, exploites les."
+    },
+    {
+      "nom": "Ondine",
+      "autre_titre": "Alliances",
+      "image": "",
+      "zodiac": "Cancer",
+      "endroit": "Partenariat solide dans le temps, association avec quelqu'un de positif.",
+      "envers": "Partenariat solide dans le temps, association avec quelqu'un de positif."
+    },
+    {
+      "nom": "Oréade",
+      "autre_titre": "Construction",
+      "image": "",
+      "zodiac": "Vierge",
+      "endroit": "Construction d'un projet solide dans le temps, construction longue et réussite.",
+      "envers": "Construction d'un projet solide dans le temps, construction longue et réussite."
+    },
+    {
+      "nom": "Ouroboros",
+      "autre_titre": "Cycle",
+      "image": "",
+      "zodiac": "Bélier",
+      "endroit": "Schéma répétitif, cycle à briser, trauma, vie antérieur, relation karmique.",
+      "envers": "Schéma répétitif, cycle à briser, trauma, vie antérieur, relation karmique."
+    },
+    {
+      "nom": "Pégase",
+      "autre_titre": "Indépendance",
+      "image": "",
+      "zodiac": "Vierge",
+      "endroit": "Evenement apportant liberté, autonomie.",
+      "envers": "Evenement apportant liberté, autonomie."
+    },
+    {
+      "nom": "Pentacle",
+      "autre_titre": "Occulte",
+      "image": "",
+      "zodiac": "Cancer",
+      "endroit": "Ouvre toi à l'occulte, les réponses se trouve dedans.",
+      "envers": "Ouvre toi à l'occulte, les réponses se trouve dedans."
+    },
+    {
+      "nom": "Phénix",
+      "autre_titre": "Renouveau",
+      "image": "",
+      "zodiac": "Gémeaux",
+      "endroit": "Renouveau positif, grand changement.",
+      "envers": "Renouveau positif, grand changement."
+    },
+    {
+      "nom": "Salem",
+      "autre_titre": "Intuition",
+      "image": "",
+      "zodiac": "Poissons",
+      "endroit": "Ecoute ton intuition, elle est bonne.",
+      "envers": "Ecoute ton intuition, elle est bonne."
+    },
+    {
+      "nom": "Satyre",
+      "autre_titre": "Sexualité",
+      "image": "",
+      "zodiac": "Scorpion",
+      "endroit": "Sexualité épanouissante, importante, fais toi plaisir, séduction.",
+      "envers": "Vie sexuelle tourmentée, surractivité, inactivité."
+    },
+    {
+      "nom": "Séraphin",
+      "autre_titre": "Présage",
+      "image": "",
+      "zodiac": "Gémeaux",
+      "endroit": "Énergie très positive, bénédiction, OUI.",
+      "envers": "Énergie très positive, bénédiction, OUI."
+    },
+    {
+      "nom": "Sirène",
+      "autre_titre": "Attirance",
+      "image": "",
+      "zodiac": "Lion",
+      "endroit": "Jeu de séduction, drague.",
+      "envers": "Proposition alléchantes mais suspectes, prend la décision la tête froide, offre alléchante, arnaques."
+    },
+    {
+      "nom": "Thriae",
+      "autre_titre": "Art",
+      "image": "",
+      "zodiac": "Verseau",
+      "endroit": "Consacre toi à tes passions, exprime tes émotions via l'art, rapprochement avec la divination.",
+      "envers": "Consacre toi à tes passions, exprime tes émotions via l'art, rapprochement avec la divination."
+    },
+    {
+      "nom": "Valkyrie",
+      "autre_titre": "Courage",
+      "image": "",
+      "zodiac": "Bélier",
+      "endroit": "Epreuve compliquée, ne perds pas espoir, reste courageux(se).",
+      "envers": "Epreuve compliquée, ne perds pas espoir, reste courageux(se)."
+      }
+    }
+  ]
